@@ -9,7 +9,7 @@
     isVisual={false}
     isOnlyImg={false}
 >
-    ${1}
+    $1
 </Uploader>
 ]]></content>
     <tabTrigger>uxcore-uploader</tabTrigger>

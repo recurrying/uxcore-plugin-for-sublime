@@ -7,7 +7,7 @@
     overflowCount={99}
     text={}
 >
-    ${1}
+    $1
 </Badge>
 ]]></content>
     <tabTrigger>uxcore-badge</tabTrigger>

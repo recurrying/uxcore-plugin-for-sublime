@@ -4,7 +4,7 @@
     prefixCls="kuma-title"
     type="primary"
 >
-    ${1}
+    $1
 </Title>
 ]]></content>
     <tabTrigger>uxcore-title</tabTrigger>

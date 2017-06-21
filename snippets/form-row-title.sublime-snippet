@@ -4,7 +4,7 @@
     jsxprefixCls="kuma-uxform-row-title"
     jsxtitle=""
 >
-    ${1}
+    $1
 </FormRowTitle>
 ]]></content>
     <tabTrigger>uxcore-form-row-title</tabTrigger>

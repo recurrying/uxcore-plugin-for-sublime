@@ -13,7 +13,7 @@
     currentDetail={0}
     onChange={}
 >
-    ${1}
+    $1
 </Steps>
 ]]></content>
     <tabTrigger>uxcore-steps</tabTrigger>

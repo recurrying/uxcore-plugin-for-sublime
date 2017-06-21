@@ -13,7 +13,7 @@
     placement="bottomLeft"
     transitionName="dropdownSlideUp"
 >
-    ${1}
+    $1
 </Dropdown>
 ]]></content>
     <tabTrigger>uxcore-dropdown</tabTrigger>

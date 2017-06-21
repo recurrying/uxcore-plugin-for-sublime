@@ -8,7 +8,7 @@
     onTitleClick={}
     title=""
 >
-    ${1}
+    $1
 </SubMenu>
 ]]></content>
     <tabTrigger>uxcore-sub-menu</tabTrigger>

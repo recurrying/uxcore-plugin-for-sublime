@@ -23,7 +23,7 @@
     onDragLeave={}
     onDrop={}
 >
-    ${1}
+    $1
 </Tree>
 ]]></content>
     <tabTrigger>uxcore-tree</tabTrigger>

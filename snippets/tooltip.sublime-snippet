@@ -11,7 +11,7 @@
     arrowContent={}
     transitionName="tip-slide"
 >
-    ${1}
+    $1
 </Tooltip>
 ]]></content>
     <tabTrigger>uxcore-tooltip</tabTrigger>

@@ -9,7 +9,7 @@
     enableKeyBoardControl
     showButton={false}
 >
-    ${1}
+    $1
 </Album>
 ]]></content>
     <tabTrigger>uxcore-album</tabTrigger>

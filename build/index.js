@@ -133,7 +133,7 @@ for (let key in components) {
 
     let { propsLength, propsHTML, children } = convertPropsToHTML(component.defaultProps);
     if (!children) {
-        children = `\${1}`;
+        children = `\$1`;
     }
 
     let content = '';

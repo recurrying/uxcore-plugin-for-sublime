@@ -5,7 +5,7 @@
     onMouseEnter={}
     onMouseLeave={}
 >
-    ${1}
+    $1
 </Menu.Item>
 ]]></content>
     <tabTrigger>uxcore-menu-item</tabTrigger>
