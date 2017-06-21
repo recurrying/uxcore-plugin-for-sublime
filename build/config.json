@@ -1,0 +1,15 @@
+{
+  "skipParentName": [
+    "Form"
+  ],
+  "skip": [
+    "Line",
+    "Line.Line",
+    "Line.Circle"
+  ],
+  "skipProps": [
+    "children"
+  ],
+  "tab": "    ",
+  "prefix": "uxcore-"
+}
