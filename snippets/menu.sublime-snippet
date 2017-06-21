@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<Menu
+    prefixCls="kuma-menu"
+    openAnimation=""
+    inlineIndent={14}
+/>
+]]></content>
+    <tabTrigger>uxcore-menu</tabTrigger>
+</snippet>

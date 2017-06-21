@@ -1,0 +1,19 @@
+<snippet>
+    <content><![CDATA[
+<Splitter.Pane
+    className=""
+    defaultSize="auto"
+    size={}
+    resizable={false}
+    collapsible={false}
+    orientation="horizontal"
+    offset={}
+    parentSplitter={}
+    collapse={}
+    defaultCollapse={}
+    onTogglePane={}
+    onCollapse={}
+/>
+]]></content>
+    <tabTrigger>uxcore-splitter-pane</tabTrigger>
+</snippet>

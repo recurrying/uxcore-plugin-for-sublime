@@ -1,0 +1,18 @@
+<snippet>
+    <content><![CDATA[
+<CascadeMultiSelect.CascadeMultiPanel
+    className=""
+    prefixCls="kuma-cascade-multi"
+    config={}
+    options={}
+    cascadeSize={3}
+    value={}
+    notFoundContent=""
+    allowClear
+    locale="zh-cn"
+    onSelect={}
+    onItemClick={}
+/>
+]]></content>
+    <tabTrigger>uxcore-cascade-multi-select-cascade-multi-panel</tabTrigger>
+</snippet>

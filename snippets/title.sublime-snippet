@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<Title
+    prefixCls="kuma-title"
+    type="primary"
+>
+    ${1}
+</Title>
+]]></content>
+    <tabTrigger>uxcore-title</tabTrigger>
+</snippet>

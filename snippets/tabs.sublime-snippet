@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+<Tabs
+    prefixCls="kuma-tab"
+    destroyInactiveTabPane={false}
+    onChange={}
+    tabBarPosition="top"
+    style={{}}
+    type="large"
+    animated
+    onTabClick={}
+/>
+]]></content>
+    <tabTrigger>uxcore-tabs</tabTrigger>
+</snippet>

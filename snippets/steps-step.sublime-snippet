@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+<Steps.Step />
+]]></content>
+    <tabTrigger>uxcore-steps-step</tabTrigger>
+</snippet>

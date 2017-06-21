@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<EmptyData
+    prefixCls="kuma-empty-data"
+    type="normal"
+    icon="https://img.alicdn.com/tps/TB1SFFFOpXXXXXzXVXXXXXXXXXX-166-168.png"
+    largeIcon="https://img.alicdn.com/tps/TB1oWW_OXXXXXXyapXXXXXXXXXX-390-390.png"
+/>
+]]></content>
+    <tabTrigger>uxcore-empty-data</tabTrigger>
+</snippet>

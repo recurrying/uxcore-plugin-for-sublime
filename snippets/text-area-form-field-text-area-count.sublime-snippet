@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+<TextAreaFormField.TextAreaCount prefixCls="kuma-uxform-count" />
+]]></content>
+    <tabTrigger>uxcore-text-area-form-field-text-area-count</tabTrigger>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+<Layout.Right width={500} />
+]]></content>
+    <tabTrigger>uxcore-layout-right</tabTrigger>
+</snippet>

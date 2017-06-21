@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+<FloatNav
+    prefixCls="uxcore-float-nav"
+    className=""
+    showOrderNumber
+    width={260}
+    height={370}
+    offset={{"right":20,"bottom":20}}
+    content={}
+    stepLength={50}
+/>
+]]></content>
+    <tabTrigger>uxcore-float-nav</tabTrigger>
+</snippet>

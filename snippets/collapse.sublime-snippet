@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<Collapse
+    prefixCls="kuma-collapse"
+    onChange={}
+    accordion={false}
+/>
+]]></content>
+    <tabTrigger>uxcore-collapse</tabTrigger>
+</snippet>

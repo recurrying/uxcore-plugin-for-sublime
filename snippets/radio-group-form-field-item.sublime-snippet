@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+<RadioGroupFormField.Item
+    prefixCls="kuma-radio-group-item"
+    text=""
+    value=""
+    className="kuma-checkbox"
+    onChange={}
+/>
+]]></content>
+    <tabTrigger>uxcore-radio-group-form-field-item</tabTrigger>
+</snippet>

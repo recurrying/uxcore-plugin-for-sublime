@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+<Badge
+    prefixCls="kuma-badge"
+    count={}
+    dot={false}
+    overflowCount={99}
+    text={}
+>
+    ${1}
+</Badge>
+]]></content>
+    <tabTrigger>uxcore-badge</tabTrigger>
+</snippet>

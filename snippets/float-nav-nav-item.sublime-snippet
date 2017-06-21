@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+<FloatNav.NavItem
+    title=""
+    prefixCls=""
+    orderNumber=""
+    anchor=""
+    onClick={}
+    onActive={}
+    rootNode
+    active={false}
+    subActiveAnchor=""
+/>
+]]></content>
+    <tabTrigger>uxcore-float-nav-nav-item</tabTrigger>
+</snippet>

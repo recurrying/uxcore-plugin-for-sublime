@@ -1,0 +1,21 @@
+<snippet>
+    <content><![CDATA[
+<Pagination
+    current={1}
+    total={0}
+    locale="zh-cn"
+    showTotal={false}
+    pageSize={10}
+    sizeOptions={}
+    onChange={}
+    className=""
+    selectPrefixCls="kuma-select2"
+    prefixCls="kuma-page"
+    selectComponentClass={}
+    showQuickJumper={false}
+    showSizeChanger={false}
+    onShowSizeChange={}
+/>
+]]></content>
+    <tabTrigger>uxcore-pagination</tabTrigger>
+</snippet>

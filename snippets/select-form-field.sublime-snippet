@@ -1,0 +1,35 @@
+<snippet>
+    <content><![CDATA[
+<SelectFormField
+    verticalAlign={false}
+    labelMatchInputHeight={false}
+    jsxshow
+    jsxshowLabel
+    jsxprefixCls="kuma-uxform-field"
+    formPrefixCls="kuma-uxform"
+    jsxflex={1}
+    jsxname=""
+    jsxplaceholder="请下拉选择"
+    jsxlabel=""
+    jsxtips=""
+    standalone={false}
+    mode="edit"
+    required={false}
+    jsxstyle={{}}
+    jsxcombobox={false}
+    jsxdata={{}}
+    searchDelay={100}
+    beforeFetch={}
+    afterFetch={}
+    fitResponse={}
+    jsxshowSearch
+    jsxallowClear={false}
+    jsxtags={false}
+    jsxmultiple={false}
+    jsxsearchPlaceholder=""
+    optionFilterProp="children"
+    optionLabelProp="children"
+/>
+]]></content>
+    <tabTrigger>uxcore-select-form-field</tabTrigger>
+</snippet>

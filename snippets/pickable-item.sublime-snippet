@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+<Pickable.Item disabled={false} />
+]]></content>
+    <tabTrigger>uxcore-pickable-item</tabTrigger>
+</snippet>

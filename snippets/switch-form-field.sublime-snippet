@@ -1,0 +1,20 @@
+<snippet>
+    <content><![CDATA[
+<SwitchFormField
+    verticalAlign={false}
+    labelMatchInputHeight={false}
+    jsxshow
+    jsxshowLabel
+    jsxprefixCls="kuma-uxform-field"
+    jsxflex={1}
+    jsxname=""
+    jsxplaceholder=""
+    jsxlabel=""
+    jsxtips=""
+    standalone={false}
+    mode="edit"
+    required={false}
+/>
+]]></content>
+    <tabTrigger>uxcore-switch-form-field</tabTrigger>
+</snippet>

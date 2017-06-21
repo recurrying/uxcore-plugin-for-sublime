@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<ButtonGroupFormField
+    jsxprefixCls="kuma-uxform-field kuma-button-group-uxform-field"
+    jsxflex={1}
+    jsxshow
+/>
+]]></content>
+    <tabTrigger>uxcore-button-group-form-field</tabTrigger>
+</snippet>

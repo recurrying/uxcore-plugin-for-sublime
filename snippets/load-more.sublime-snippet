@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+<LoadMore
+    prefixCls="kuma-load-more"
+    status="loaded"
+    className=""
+    trigger={}
+    onLoadMore={}
+    locale="zh-cn"
+    viewLoadDelay={150}
+/>
+]]></content>
+    <tabTrigger>uxcore-load-more</tabTrigger>
+</snippet>

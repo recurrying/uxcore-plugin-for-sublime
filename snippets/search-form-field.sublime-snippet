@@ -1,0 +1,41 @@
+<snippet>
+    <content><![CDATA[
+<SearchFormField
+    verticalAlign={false}
+    labelMatchInputHeight={false}
+    jsxshow
+    jsxshowLabel={false}
+    jsxprefixCls="kuma-uxform-field"
+    formPrefixCls="kuma-uxform"
+    jsxflex={1}
+    jsxname=""
+    jsxplaceholder="请下拉选择"
+    jsxlabel=""
+    jsxtips=""
+    standalone={false}
+    mode="edit"
+    required={false}
+    jsxstyle={{}}
+    jsxcombobox={false}
+    jsxdata={{}}
+    searchDelay={100}
+    beforeFetch={}
+    afterFetch={}
+    fitResponse={}
+    jsxshowSearch
+    jsxallowClear={false}
+    jsxtags={false}
+    jsxmultiple={false}
+    jsxsearchPlaceholder=""
+    optionFilterProp="children"
+    optionLabelProp="children"
+    combobox
+    showSearch={false}
+    advancedConfig={{}}
+    classConfig={{}}
+    tidy={false}
+    onIconClick={}
+/>
+]]></content>
+    <tabTrigger>uxcore-search-form-field</tabTrigger>
+</snippet>

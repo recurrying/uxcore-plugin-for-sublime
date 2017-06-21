@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<CheckboxGroup
+    value={}
+    onChange={}
+    disabled={false}
+    className="kuma-checkbox-group"
+/>
+]]></content>
+    <tabTrigger>uxcore-checkbox-group</tabTrigger>
+</snippet>

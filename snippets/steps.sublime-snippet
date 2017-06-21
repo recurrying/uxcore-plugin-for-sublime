@@ -1,0 +1,20 @@
+<snippet>
+    <content><![CDATA[
+<Steps
+    prefixCls="kuma-step"
+    className=""
+    iconPrefix=""
+    maxDescriptionWidth={100}
+    current={0}
+    direction=""
+    showIcon
+    type="default"
+    showDetail={false}
+    currentDetail={0}
+    onChange={}
+>
+    ${1}
+</Steps>
+]]></content>
+    <tabTrigger>uxcore-steps</tabTrigger>
+</snippet>

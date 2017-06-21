@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<Tag
+    className=""
+    addTags
+    onAdd={}
+    locale="zh-cn"
+/>
+]]></content>
+    <tabTrigger>uxcore-tag</tabTrigger>
+</snippet>

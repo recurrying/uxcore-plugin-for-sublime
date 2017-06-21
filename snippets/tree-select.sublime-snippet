@@ -1,0 +1,43 @@
+<snippet>
+    <content><![CDATA[
+<TreeSelect
+    prefixCls="uxcore-tree-select"
+    filterTreeNode={}
+    showSearch={false}
+    allowClear={false}
+    placeholder=""
+    searchPlaceholder=""
+    labelInValue={false}
+    inputValue=""
+    onClick={}
+    onChange={}
+    onSelect={}
+    onDeselect={}
+    onSearch={}
+    showArrow
+    dropdownMatchSelectWidth={false}
+    dropdownStyle={{}}
+    onDropdownVisibleChange={}
+    notFoundContent="Not Found"
+    showCheckedStrategy="SHOW_CHILD"
+    treeCheckStrictly={false}
+    treeIcon={false}
+    treeLine={false}
+    treeDataSimpleMode={false}
+    treeDefaultExpandAll={false}
+    treeCheckable={false}
+    treeNodeFilterProp="value"
+    treeNodeLabelProp="title"
+    resultsPanelAllClearBtn
+    resultsPanelTitle=""
+    resultsPanelTitleStyle={{}}
+    filterResultsPanel
+    locale="zh-cn"
+    dropdownClassName="no-svg"
+    transitionName="slideUp"
+    choiceTransitionName="uxcore-tree-select-selection__choice-zoom"
+    maxTagTextLength={10}
+/>
+]]></content>
+    <tabTrigger>uxcore-tree-select</tabTrigger>
+</snippet>

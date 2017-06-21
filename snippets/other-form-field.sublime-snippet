@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<OtherFormField
+    jsxprefixCls="kuma-uxform-field kuma-other-uxform-field"
+    jsxflex={1}
+    jsxshow
+/>
+]]></content>
+    <tabTrigger>uxcore-other-form-field</tabTrigger>
+</snippet>

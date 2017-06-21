@@ -1,0 +1,20 @@
+<snippet>
+    <content><![CDATA[
+<Dropdown
+    minOverlayWidthMatchTrigger
+    prefixCls="kuma-dropdown"
+    trigger={}
+    showAction={}
+    hideAction={}
+    overlayClassName=""
+    overlayStyle={{}}
+    defaultVisible={false}
+    onVisibleChange={}
+    placement="bottomLeft"
+    transitionName="dropdownSlideUp"
+>
+    ${1}
+</Dropdown>
+]]></content>
+    <tabTrigger>uxcore-dropdown</tabTrigger>
+</snippet>

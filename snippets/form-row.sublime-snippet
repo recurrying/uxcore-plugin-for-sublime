@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+<FormRow jsxprefixCls="kuma-uxform-row" />
+]]></content>
+    <tabTrigger>uxcore-form-row</tabTrigger>
+</snippet>

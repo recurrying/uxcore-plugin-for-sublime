@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+<Menu.Item
+    onSelect={}
+    onMouseEnter={}
+    onMouseLeave={}
+>
+    ${1}
+</Menu.Item>
+]]></content>
+    <tabTrigger>uxcore-menu-item</tabTrigger>
+</snippet>

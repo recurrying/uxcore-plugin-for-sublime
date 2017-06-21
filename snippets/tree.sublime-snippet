@@ -1,0 +1,30 @@
+<snippet>
+    <content><![CDATA[
+<Tree
+    prefixCls="kuma-tree"
+    showLine={false}
+    showIcon={false}
+    selectable
+    multiple={false}
+    checkable={false}
+    checkStrictly={false}
+    draggable={false}
+    autoExpandParent
+    defaultExpandAll={false}
+    defaultExpandedKeys={}
+    defaultCheckedKeys={}
+    defaultSelectedKeys={}
+    onExpand={}
+    onCheck={}
+    onSelect={}
+    onDragStart={}
+    onDragEnter={}
+    onDragOver={}
+    onDragLeave={}
+    onDrop={}
+>
+    ${1}
+</Tree>
+]]></content>
+    <tabTrigger>uxcore-tree</tabTrigger>
+</snippet>

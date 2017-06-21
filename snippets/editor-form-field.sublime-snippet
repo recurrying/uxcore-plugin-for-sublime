@@ -1,0 +1,29 @@
+<snippet>
+    <content><![CDATA[
+<EditorFormField
+    verticalAlign={false}
+    labelMatchInputHeight={false}
+    jsxshow
+    jsxshowLabel
+    jsxprefixCls="kuma-uxform-field"
+    formPrefixCls="kuma-uxform"
+    jsxflex={1}
+    jsxname=""
+    jsxplaceholder=""
+    jsxlabel=""
+    jsxtips=""
+    standalone={false}
+    mode="edit"
+    required={false}
+    locale="zh-cn"
+    hasTrigger
+    jsxtype="single"
+    autoMatchWidth={false}
+    panel="day"
+    useFormat={false}
+    jsxconfig={{}}
+    jsxcontent=""
+/>
+]]></content>
+    <tabTrigger>uxcore-editor-form-field</tabTrigger>
+</snippet>

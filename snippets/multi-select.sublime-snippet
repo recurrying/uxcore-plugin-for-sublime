@@ -1,0 +1,20 @@
+<snippet>
+    <content><![CDATA[
+<MultiSelect
+    prefixCls="kuma-multi-select"
+    className=""
+    dropdownClassName=""
+    value={}
+    disabled={false}
+    placeholder="请选择"
+    titleBreakStr=", "
+    optionLabelProp="text"
+    showSelectAll
+    showClear
+    onChange={}
+    onSubmit={}
+    locale="zh-cn"
+/>
+]]></content>
+    <tabTrigger>uxcore-multi-select</tabTrigger>
+</snippet>

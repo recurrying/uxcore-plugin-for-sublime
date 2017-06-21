@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+<Grid.Row componentClass="div" />
+]]></content>
+    <tabTrigger>uxcore-grid-row</tabTrigger>
+</snippet>

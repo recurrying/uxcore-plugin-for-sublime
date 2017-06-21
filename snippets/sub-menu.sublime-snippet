@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+<SubMenu
+    onMouseEnter={}
+    onMouseLeave={}
+    onTitleMouseEnter={}
+    onTitleMouseLeave={}
+    onTitleClick={}
+    title=""
+>
+    ${1}
+</SubMenu>
+]]></content>
+    <tabTrigger>uxcore-sub-menu</tabTrigger>
+</snippet>

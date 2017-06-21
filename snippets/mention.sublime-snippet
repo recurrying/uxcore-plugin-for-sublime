@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+<Mention
+    prefixCls="kuma-mention"
+    source={}
+    delay={100}
+    matchRange={}
+    formatter={}
+    panelFormatter={}
+    onChange={}
+/>
+]]></content>
+    <tabTrigger>uxcore-mention</tabTrigger>
+</snippet>

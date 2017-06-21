@@ -1,0 +1,31 @@
+<snippet>
+    <content><![CDATA[
+<NumberInputFormField
+    verticalAlign={false}
+    labelMatchInputHeight={false}
+    jsxshow
+    jsxshowLabel
+    jsxprefixCls="kuma-uxform-field"
+    formPrefixCls="kuma-uxform"
+    jsxflex={1}
+    jsxname=""
+    jsxplaceholder=""
+    jsxlabel=""
+    jsxtips=""
+    standalone={false}
+    mode="edit"
+    required={false}
+    IECompatible
+    onBlur={}
+    onFocus={}
+    onKeyDown={}
+    renderView={}
+    validateOnBlur={false}
+    inputType="text"
+    jsxtype=""
+    delimiter=" "
+    formatValueOnBlur={false}
+/>
+]]></content>
+    <tabTrigger>uxcore-number-input-form-field</tabTrigger>
+</snippet>

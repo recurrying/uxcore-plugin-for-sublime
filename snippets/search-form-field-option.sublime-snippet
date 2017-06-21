@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+<SearchFormField.Option />
+]]></content>
+    <tabTrigger>uxcore-search-form-field-option</tabTrigger>
+</snippet>

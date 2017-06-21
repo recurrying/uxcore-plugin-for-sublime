@@ -1,0 +1,24 @@
+<snippet>
+    <content><![CDATA[
+<PickableFormField
+    verticalAlign={false}
+    labelMatchInputHeight={false}
+    jsxshow
+    jsxshowLabel
+    jsxprefixCls="kuma-uxform-field"
+    jsxflex={1}
+    jsxname=""
+    jsxplaceholder=""
+    jsxlabel=""
+    jsxtips=""
+    standalone={false}
+    mode="edit"
+    required={false}
+    multiple
+    value={}
+    type="normal"
+    max={99}
+/>
+]]></content>
+    <tabTrigger>uxcore-pickable-form-field</tabTrigger>
+</snippet>

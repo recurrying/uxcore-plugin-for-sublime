@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<RadioGroup
+    value=""
+    onChange={}
+/>
+]]></content>
+    <tabTrigger>uxcore-radio-group</tabTrigger>
+</snippet>

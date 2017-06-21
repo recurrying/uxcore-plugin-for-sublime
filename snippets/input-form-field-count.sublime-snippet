@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+<InputFormField.Count prefixCls="kuma-uxform-count" />
+]]></content>
+    <tabTrigger>uxcore-input-form-field-count</tabTrigger>
+</snippet>

@@ -1,0 +1,45 @@
+<snippet>
+    <content><![CDATA[
+<Table
+    prefixCls="kuma-uxtable"
+    jsxcolumns={}
+    locale="zh-cn"
+    showHeader
+    width="auto"
+    height="auto"
+    mode="edit"
+    renderModel=""
+    levels={0}
+    actionBarHeight={54}
+    fetchDataOnMount
+    doubleClickToEdit
+    rowSelector="checkboxSelector"
+    showPager
+    isMiniPager={false}
+    showPagerSizeChanger
+    showPagerQuickJumper
+    showColumnPicker={false}
+    showHeaderBorder={false}
+    showPagerTotal
+    showMask={false}
+    showSearch={false}
+    getSavedData
+    pageSize={10}
+    pagerSizeOptions={}
+    rowHeight={76}
+    fetchParams={{}}
+    currentPage={1}
+    emptyText={{"type":"div","key":null,"ref":null,"props":{"style":{"lineHeight":2},"children":"暂无数据"},"_owner":null,"_store":{}}}
+    searchBarPlaceholder="搜索表格内容"
+    loadingText="loading"
+    fitResponse={}
+    processData={}
+    beforeFetch={}
+    onFetchError={}
+    addRowClassName={}
+    onChange={}
+    onSave={}
+/>
+]]></content>
+    <tabTrigger>uxcore-table</tabTrigger>
+</snippet>

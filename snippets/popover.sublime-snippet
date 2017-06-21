@@ -1,0 +1,19 @@
+<snippet>
+    <content><![CDATA[
+<Popover
+    prefixCls="kuma-popover"
+    transitionName="popover-slide"
+    delay={0}
+    placement="top"
+    trigger="hover"
+    onOk={}
+    onCancel={}
+    okText="确定"
+    cancelText="取消"
+    showButton={false}
+    arrowContent={{"type":"div","key":null,"ref":null,"props":{"className":"kuma-popover-arrow-inner"},"_owner":null,"_store":{}}}
+    onVisibleChange={}
+/>
+]]></content>
+    <tabTrigger>uxcore-popover</tabTrigger>
+</snippet>

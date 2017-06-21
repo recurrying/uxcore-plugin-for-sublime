@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+<Alert
+    prefixCls="kuma-alert"
+    iconPrefixCls="kuma-icon"
+    type="message"
+    onClose={}
+    hasContainer={false}
+    size="normal"
+/>
+]]></content>
+    <tabTrigger>uxcore-alert</tabTrigger>
+</snippet>

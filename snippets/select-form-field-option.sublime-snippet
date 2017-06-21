@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+<SelectFormField.Option />
+]]></content>
+    <tabTrigger>uxcore-select-form-field-option</tabTrigger>
+</snippet>

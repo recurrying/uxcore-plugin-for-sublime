@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[
+<Carousel
+    prefixCls="kuma-carousel"
+    largeArrowsAndDots={false}
+    dots
+    cssEase="ease-out"
+    infinite
+    speed={500}
+    slidesToShow={1}
+    centerDots
+    slidesToScroll={1}
+    arrows="hover"
+/>
+]]></content>
+    <tabTrigger>uxcore-carousel</tabTrigger>
+</snippet>

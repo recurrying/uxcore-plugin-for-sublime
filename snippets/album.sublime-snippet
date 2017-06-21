@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+<Album
+    width=""
+    height=""
+    thumbPlacement="right"
+    thumbBackground="#000"
+    enableThumbs={false}
+    enableKeyBoardControl
+    showButton={false}
+>
+    ${1}
+</Album>
+]]></content>
+    <tabTrigger>uxcore-album</tabTrigger>
+</snippet>

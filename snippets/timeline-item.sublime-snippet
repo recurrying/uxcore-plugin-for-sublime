@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+<Timeline.Item
+    pending={false}
+    prefixCls="kuma-timeline"
+    className=""
+    last={false}
+    color=""
+    dotted={false}
+    active={false}
+    title=""
+/>
+]]></content>
+    <tabTrigger>uxcore-timeline-item</tabTrigger>
+</snippet>

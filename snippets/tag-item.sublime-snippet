@@ -1,0 +1,18 @@
+<snippet>
+    <content><![CDATA[
+<Tag.Item
+    prefixCls="uxcore-tag-item"
+    className=""
+    count={0}
+    canAddCount={false}
+    canDelete={false}
+    onClick={}
+    maxDisplayCount={99}
+    onAddCount={}
+    onDelete={}
+    confirmDeleteText=""
+    locale="zh-cn"
+/>
+]]></content>
+    <tabTrigger>uxcore-tag-item</tabTrigger>
+</snippet>

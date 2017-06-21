@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+<Animate
+    animation={{}}
+    component="span"
+    transitionEnter
+    transitionLeave
+    transitionAppear={false}
+    onEnd={}
+    onEnter={}
+    onLeave={}
+    onAppear={}
+/>
+]]></content>
+    <tabTrigger>uxcore-animate</tabTrigger>
+</snippet>

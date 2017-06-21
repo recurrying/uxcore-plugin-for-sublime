@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+<Switch
+    prefixCls="kuma-switch"
+    checkedChildren={}
+    unCheckedChildren={}
+    className=""
+    defaultChecked={false}
+    onChange={}
+/>
+]]></content>
+    <tabTrigger>uxcore-switch</tabTrigger>
+</snippet>

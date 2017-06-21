@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+<YearCalendar
+    format="YYYY"
+    placeholder="请选择年份"
+    onSelect={}
+    locale="zh-cn"
+    transitionName="calendarSlideUp"
+    align={{"offset":[0,0]}}
+    showDateInput={false}
+    hasTrigger
+/>
+]]></content>
+    <tabTrigger>uxcore-year-calendar</tabTrigger>
+</snippet>

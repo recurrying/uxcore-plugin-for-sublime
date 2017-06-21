@@ -1,0 +1,21 @@
+<snippet>
+    <content><![CDATA[
+<CascadeMultiSelect.CascadeMultiModal
+    className=""
+    prefixCls="kuma-cascade-multi"
+    config={}
+    options={}
+    cascadeSize={3}
+    value={}
+    notFoundContent=""
+    allowClear
+    locale="zh-cn"
+    onSelect={}
+    title=""
+    width={0}
+    onOk={}
+    onCancel={}
+/>
+]]></content>
+    <tabTrigger>uxcore-cascade-multi-select-cascade-multi-modal</tabTrigger>
+</snippet>

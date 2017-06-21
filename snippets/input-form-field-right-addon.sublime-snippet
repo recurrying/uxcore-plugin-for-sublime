@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<InputFormField.RightAddon>
+    ${1}
+</InputFormField.RightAddon>
+]]></content>
+    <tabTrigger>uxcore-input-form-field-right-addon</tabTrigger>
+</snippet>

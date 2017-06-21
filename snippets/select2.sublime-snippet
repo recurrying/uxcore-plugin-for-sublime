@@ -1,0 +1,29 @@
+<snippet>
+    <content><![CDATA[
+<Select2
+    prefixCls="kuma-select2"
+    filterOption={}
+    defaultOpen={false}
+    labelInValue={false}
+    defaultActiveFirstOption
+    showSearch
+    allowClear={false}
+    placeholder=""
+    defaultValue={}
+    onChange={}
+    onBlur={}
+    onSelect={}
+    onSearch={}
+    onDeselect={}
+    showArrow
+    dropdownMatchSelectWidth
+    dropdownStyle={{}}
+    dropdownMenuStyle={{}}
+    optionFilterProp="value"
+    optionLabelProp="children"
+    notFoundContent="Not Found"
+    transitionName="selectSlideUp"
+/>
+]]></content>
+    <tabTrigger>uxcore-select2</tabTrigger>
+</snippet>

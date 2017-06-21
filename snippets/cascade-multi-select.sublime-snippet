@@ -1,0 +1,25 @@
+<snippet>
+    <content><![CDATA[
+<CascadeMultiSelect
+    className=""
+    prefixCls="kuma-cascade-multi"
+    config={}
+    options={}
+    cascadeSize={3}
+    value={}
+    notFoundContent=""
+    allowClear
+    locale="zh-cn"
+    onSelect={}
+    onItemClick={}
+    placeholder=""
+    disabled={false}
+    defaultValue={}
+    dropdownClassName=""
+    onOk={}
+    onCancel={}
+    getPopupContainer={}
+/>
+]]></content>
+    <tabTrigger>uxcore-cascade-multi-select</tabTrigger>
+</snippet>

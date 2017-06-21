@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+<Tabs.TabPane placeholder={} />
+]]></content>
+    <tabTrigger>uxcore-tabs-tab-pane</tabTrigger>
+</snippet>

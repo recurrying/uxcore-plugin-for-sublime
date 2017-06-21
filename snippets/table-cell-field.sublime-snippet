@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<Table.CellField
+    prefixCls="kuma-uxtable-cell-field"
+    standalone={false}
+/>
+]]></content>
+    <tabTrigger>uxcore-table-cell-field</tabTrigger>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<ButtonGroup>
+    ${1}
+</ButtonGroup>
+]]></content>
+    <tabTrigger>uxcore-button-group</tabTrigger>
+</snippet>

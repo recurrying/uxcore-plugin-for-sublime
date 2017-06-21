@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<Crumb.Item>
+    链接
+</Crumb.Item>
+]]></content>
+    <tabTrigger>uxcore-crumb-item</tabTrigger>
+</snippet>

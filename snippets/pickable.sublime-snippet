@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+<Pickable
+    prefixCls="kuma-pickable"
+    value={}
+    type="normal"
+    multiple
+    enableFold={false}
+    defaultfoldItems
+    locale="zh-cn"
+    onChange={}
+    maxLines={1}
+/>
+]]></content>
+    <tabTrigger>uxcore-pickable</tabTrigger>
+</snippet>

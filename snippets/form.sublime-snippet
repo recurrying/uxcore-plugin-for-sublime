@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+<Form
+    jsxprefixCls="kuma-uxform"
+    jsxmode="edit"
+    instantValidate
+    asyncValidate={false}
+    jsxonChange={}
+/>
+]]></content>
+    <tabTrigger>uxcore-form</tabTrigger>
+</snippet>

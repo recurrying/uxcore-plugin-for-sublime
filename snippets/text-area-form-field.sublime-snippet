@@ -1,0 +1,26 @@
+<snippet>
+    <content><![CDATA[
+<TextAreaFormField
+    verticalAlign={false}
+    labelMatchInputHeight={false}
+    jsxshow
+    jsxshowLabel
+    jsxprefixCls="kuma-uxform-field"
+    jsxflex={1}
+    jsxname=""
+    jsxplaceholder=""
+    jsxlabel=""
+    jsxtips=""
+    standalone={false}
+    mode="edit"
+    required={false}
+    onBlur={}
+    onFocus={}
+    onKeyDown={}
+    validateOnBlur={false}
+    autosize
+    IECompatible
+/>
+]]></content>
+    <tabTrigger>uxcore-text-area-form-field</tabTrigger>
+</snippet>

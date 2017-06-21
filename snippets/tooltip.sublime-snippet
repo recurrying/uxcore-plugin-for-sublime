@@ -1,0 +1,18 @@
+<snippet>
+    <content><![CDATA[
+<Tooltip
+    prefixCls="kuma-tooltip"
+    mouseEnterDelay={0}
+    destroyTooltipOnHide={false}
+    mouseLeaveDelay={0.1}
+    align={{}}
+    placement="right"
+    trigger={}
+    arrowContent={}
+    transitionName="tip-slide"
+>
+    ${1}
+</Tooltip>
+]]></content>
+    <tabTrigger>uxcore-tooltip</tabTrigger>
+</snippet>

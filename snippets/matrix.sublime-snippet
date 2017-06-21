@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+<Matrix
+    prefixCls="kuma-matrix"
+    data={{}}
+    cellHeight={40}
+    cellWidth={100}
+    render={}
+/>
+]]></content>
+    <tabTrigger>uxcore-matrix</tabTrigger>
+</snippet>

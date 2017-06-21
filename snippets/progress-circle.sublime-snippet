@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+<Progress.Circle
+    status="normal"
+    percent={0}
+    strokeWidth={6}
+    size={156}
+    showInfo
+/>
+]]></content>
+    <tabTrigger>uxcore-progress-circle</tabTrigger>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<CheckboxGroupFormField.Item
+    value=""
+    prefixCls="kuma-checkbox-group-item"
+    onChange={}
+/>
+]]></content>
+    <tabTrigger>uxcore-checkbox-group-form-field-item</tabTrigger>
+</snippet>

@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+<Uploader
+    locale="zh-cn"
+    autoPending
+    fileList={}
+    onChange={}
+    onError={}
+    isVisual={false}
+    isOnlyImg={false}
+>
+    ${1}
+</Uploader>
+]]></content>
+    <tabTrigger>uxcore-uploader</tabTrigger>
+</snippet>

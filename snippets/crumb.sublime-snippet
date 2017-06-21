@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<Crumb
+    prefixCls="kuma-uxcrumbs"
+    className=""
+/>
+]]></content>
+    <tabTrigger>uxcore-crumb</tabTrigger>
+</snippet>

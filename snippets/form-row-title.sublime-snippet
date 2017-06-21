@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<FormRowTitle
+    jsxprefixCls="kuma-uxform-row-title"
+    jsxtitle=""
+>
+    ${1}
+</FormRowTitle>
+]]></content>
+    <tabTrigger>uxcore-form-row-title</tabTrigger>
+</snippet>

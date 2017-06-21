@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[
+<Button
+    prefixCls="kuma-button"
+    size="medium"
+    type="primary"
+    disabled={false}
+    className=""
+    htmlType="button"
+    loading={false}
+    ghost={false}
+>
+    Button
+</Button>
+]]></content>
+    <tabTrigger>uxcore-button</tabTrigger>
+</snippet>

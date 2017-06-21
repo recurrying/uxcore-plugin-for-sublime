@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<Timeline
+    className=""
+    prefixCls="kuma-timeline"
+/>
+]]></content>
+    <tabTrigger>uxcore-timeline</tabTrigger>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+<Calendar.Pmam prefixCls="kuma-time-picker" />
+]]></content>
+    <tabTrigger>uxcore-calendar-pmam</tabTrigger>
+</snippet>

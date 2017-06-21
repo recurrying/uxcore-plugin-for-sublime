@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<Collapse.Panel
+    isActive={false}
+    onItemClick={}
+/>
+]]></content>
+    <tabTrigger>uxcore-collapse-panel</tabTrigger>
+</snippet>

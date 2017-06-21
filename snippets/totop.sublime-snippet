@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+<Totop
+    prefixCls="kuma-totop"
+    to={10}
+    duration={600}
+    distance={30}
+    onTotopEnd={}
+/>
+]]></content>
+    <tabTrigger>uxcore-totop</tabTrigger>
+</snippet>

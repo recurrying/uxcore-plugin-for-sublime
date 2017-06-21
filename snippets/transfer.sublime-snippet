@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+<Transfer
+    height={280}
+    searchPlaceholder="请输入搜索内容"
+    data={}
+    leftTitle="未选中"
+    rightTitle="已选中"
+    checkAllText="全选"
+    disabled={false}
+    showSearch
+    onChange={}
+/>
+]]></content>
+    <tabTrigger>uxcore-transfer</tabTrigger>
+</snippet>

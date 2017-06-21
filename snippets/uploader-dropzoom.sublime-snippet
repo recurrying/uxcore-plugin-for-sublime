@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+<Uploader.Dropzoom />
+]]></content>
+    <tabTrigger>uxcore-uploader-dropzoom</tabTrigger>
+</snippet>

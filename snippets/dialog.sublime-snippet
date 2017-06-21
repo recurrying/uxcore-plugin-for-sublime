@@ -1,0 +1,22 @@
+<snippet>
+    <content><![CDATA[
+<Dialog
+    prefixCls="kuma-dlg"
+    className=""
+    wrapClassName=""
+    onOk={}
+    locale="zh-cn"
+    onCancel={}
+    width={520}
+    transitionName="dialogSlideDown"
+    maskTransitionName="dialogFade"
+    confirmLoading={false}
+    visible={false}
+    closable
+    maskClosable={false}
+    title=""
+    htmlClassName=""
+/>
+]]></content>
+    <tabTrigger>uxcore-dialog</tabTrigger>
+</snippet>

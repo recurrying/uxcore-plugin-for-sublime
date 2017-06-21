@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+<TreeNode title="---" />
+]]></content>
+    <tabTrigger>uxcore-tree-node</tabTrigger>
+</snippet>

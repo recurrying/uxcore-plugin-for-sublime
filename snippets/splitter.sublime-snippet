@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<Splitter
+    prefixCls="uxcore-splitter"
+    orientation="horizontal"
+    className=""
+    onResize={}
+/>
+]]></content>
+    <tabTrigger>uxcore-splitter</tabTrigger>
+</snippet>

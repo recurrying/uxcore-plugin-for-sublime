@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<Grid
+    componentClass="div"
+    fluid={false}
+/>
+]]></content>
+    <tabTrigger>uxcore-grid</tabTrigger>
+</snippet>

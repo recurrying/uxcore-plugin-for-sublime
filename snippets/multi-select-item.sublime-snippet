@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<MultiSelect.Item
+    value=""
+    prefixCls="kuma-checkbox-group-item"
+    onChange={}
+/>
+]]></content>
+    <tabTrigger>uxcore-multi-select-item</tabTrigger>
+</snippet>

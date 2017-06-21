@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+<Menu.Divider disabled />
+]]></content>
+    <tabTrigger>uxcore-menu-divider</tabTrigger>
+</snippet>

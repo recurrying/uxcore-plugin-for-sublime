@@ -1,0 +1,25 @@
+<snippet>
+    <content><![CDATA[
+<CascadeSelect
+    prefixCls="kuma-cascader"
+    className=""
+    placeholder=""
+    options={}
+    defaultValue={}
+    value={}
+    onChange={}
+    disabled={false}
+    clearable={false}
+    changeOnSelect={false}
+    expandTrigger="click"
+    cascadeSize={3}
+    beforeRender={}
+    locale="zh-cn"
+    miniMode
+    columnWidth={100}
+    displayMode="dropdown"
+    getSelectPlaceholder={}
+/>
+]]></content>
+    <tabTrigger>uxcore-cascade-select</tabTrigger>
+</snippet>

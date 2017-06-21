@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+<Album.Photo src="" />
+]]></content>
+    <tabTrigger>uxcore-album-photo</tabTrigger>
+</snippet>

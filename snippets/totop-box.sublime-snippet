@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<Totop.Box
+    className=""
+    label=""
+    icon={}
+    onClick={}
+/>
+]]></content>
+    <tabTrigger>uxcore-totop-box</tabTrigger>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<Progress
+    percent={0}
+    strokeWidth={10}
+    status="normal"
+    showInfo
+/>
+]]></content>
+    <tabTrigger>uxcore-progress</tabTrigger>
+</snippet>
