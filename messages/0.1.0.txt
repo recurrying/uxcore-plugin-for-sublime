@@ -1,0 +1,14 @@
+=============================================
+UXCore - Has been updated !!
+=============================================
+
+Added & Updated features
+------------------------
+ - Added all 0.13.2 components.
+
+Documentation, examples & issue filing can be found here:
+https://github.com/recore/uxcore-plugin-for-sublime
+
+------------------------------
+Follow us on http://uxco.re/
+------------------------------
