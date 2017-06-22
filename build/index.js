@@ -21,27 +21,29 @@ const walkThrough = (union, components, parentName) => {
             if (components[key]) {
                 continue;
             }
-            if (/^[A-Z]/.test(name)) {
-                let component = union[name];
-                if (!isComponent(component)) {
-                    if (component.default && isComponent(component.default)) {
-                        component = component.default;
-                    } else {
-                        continue;
-                    }
-                }
-
-                const { hasChildren, porps } = stringifyPropTypes(component.propTypes);
-
-                components[key] = {
-                    hasChildren,
-                    alias: normalizeDisplayName(key),
-                    propTypes: porps,
-                    defaultProps: component.defaultProps,
-                };
-
-                walkThrough(component, components, name);
+            if (!/^[A-Z]/.test(name)) {
+                continue;
             }
+
+            let component = union[name];
+            if (!isComponent(component)) {
+                if (component.default && isComponent(component.default)) {
+                    component = component.default;
+                } else {
+                    continue;
+                }
+            }
+
+            const { hasChildren, porps } = stringifyPropTypes(component.propTypes);
+
+            components[key] = {
+                hasChildren,
+                alias: normalizeDisplayName(key),
+                propTypes: porps,
+                defaultProps: component.defaultProps,
+            };
+
+            walkThrough(component, components, name);
         }
     }
 };
