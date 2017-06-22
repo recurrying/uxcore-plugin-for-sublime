@@ -94,6 +94,10 @@ const convertPropsToHTML = (props) => {
                 html.push(`${key}={${value}}`);
                 break;
             case '[object Object]':
+                if ('type' in value && 'key' in value && 'ref' in value) {
+                    // jsx props
+                    continue;
+                }
                 html.push(`${key}={${JSON.stringify(value)}}`);
                 break;
             case '[object Boolean]':

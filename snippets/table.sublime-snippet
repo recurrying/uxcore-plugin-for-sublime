@@ -29,7 +29,6 @@
     rowHeight={76}
     fetchParams={{}}
     currentPage={1}
-    emptyText={{"type":"div","key":null,"ref":null,"props":{"style":{"lineHeight":2},"children":"暂无数据"},"_owner":null,"_store":{}}}
     searchBarPlaceholder="搜索表格内容"
     loadingText="loading"
     fitResponse={}
